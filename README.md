@@ -17,7 +17,7 @@
    - [Playoffs](#playoffs)
    - [Championship](#championship-bracket)
    - [Consolation](#consolation-bracket)
-- [Scoring](#section-x---scoring)
+- [Scoring](#section-ix---scoring)
 <br>
 <br>
 
