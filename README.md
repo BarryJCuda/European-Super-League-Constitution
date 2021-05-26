@@ -3,7 +3,7 @@
 
 - [League Governence](#section-i---league-governence)
    - [Commissioner](#league-commissioner)
-   - [Co-Commissioners](#co-commissioners)
+
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iii---payout)
@@ -26,27 +26,14 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-__Eli Manning__
-> (800) 588-2300
+BarryJCuda
 
-> 3LI@ManningFace.com
 
-<br>
-
-### Co-Commissioners ###
-__Odell Beckham Jr.__
-> (877) 393-4448
-
-> OBJesus@onehandcatches.com 
+>barryjcuda@gmail.com
 
 <br>
 
-__Saquan Barkley__
-> (800) 605-3369
 
-> TheQuadfather@demthighs.com
-
-<br>
 
 ### Commissioner Site Powers ###
 The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
