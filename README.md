@@ -12,7 +12,7 @@
   - [Trading](#trades)
 - [Startup Draft](#section-vi---startup-draft)
 - [Rookie Draft](#section-vii---rookie-draft)
-- [Schedule](#section-viii---divisions--schedule)
+- [Schedule & Playoffs](#section-viii---schedule---playoffs)
    - [Schedule](#regular-season-schedule)
 - [Playoffs](#section-ix---playoffs)
    - [Championship](#championship-bracket)
