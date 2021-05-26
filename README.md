@@ -153,7 +153,6 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Playoffs begin week 15 with the championship game occuring week 17.
 
 <br><br>
-
 ### Playoffs ###
 
 ### Championship Bracket ###
