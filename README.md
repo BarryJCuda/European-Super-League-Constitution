@@ -165,7 +165,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## __Section X - Scoring__ ##
+## __Section IX - Scoring__ ##
 - Scoring is the default Sleeper scoring system, which can be seen in the League settings page of the app/website.
 
 
