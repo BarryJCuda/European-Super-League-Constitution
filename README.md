@@ -103,7 +103,6 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Minimum bid to get a FA off waivers is $1
 - FAAB dollars are not tradeable
 - There is a two Day waiting period for waivers to clear
-- Free agency locks a week after the championship ends.
 
 
 ### Trades ###
