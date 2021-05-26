@@ -3,7 +3,6 @@
 
 - [League Governence](#section-i---league-governence)
    - [Commissioner](#league-commissioner)
-
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iii---payout)
