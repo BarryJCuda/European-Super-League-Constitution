@@ -144,7 +144,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## __Section VIII - Schedule__ ##
+## __Section VIII - Schedule & Playoffs__ ##
 
 
 ### Regular Season Schedule ###
@@ -154,7 +154,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## __Section IX - Playoffs__ ##
+## Playoffs__ ##
 
 ### Championship Bracket ###
 - The two teams with the best regular season records will be assigned to the top two seeds, and will recieve a bye in the first week of playoffs.
