@@ -3,7 +3,7 @@
 
 - [League Governence](#section-i---league-governence)
    - [Commissioner](#league-commissioner)
-   - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
+   - [Commissioner Powers, Duties and Arbitration Process](#commissioner-site-powers)
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iii---payout)
 - [Rosters](#section-iv---rosters)
@@ -34,20 +34,14 @@ BarryJCuda
 
 
 
-### Commissioner Site Powers ###
-The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
-<br>
-### Co-Commissioner Site Powers ###
-The Co-Commissioners will have all site powers the league commissioner has so that in the event the commissioner is unavailable the co-commissioners can attend to any urgent needs from league members.
-<br>
-### Co-Commissioner Appointment ###
-The Commissioner can nominate up to two Co-Commissioners who will then require a majority vote by the rest of the league to be appointed.
+### Commissioner Site Powers and Duty ###
+The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams if necessary. The commissioner has a duty to uphold the integrity, competitive spirit, and enjoyment of the league, and will only ever use his abilites/powers to fulfill this duty. 
 <br>
 ### Dispute Arbitration ###
-The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
+The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant, the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
 <br>
 ### Rule Changes ###
-In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent.
+In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called by the commissioner and receive a majority from league members (in a tie the commissioner has the tiebreaking vote). League members may submit potential rule/structure changes at any time to the commissioner for consideration. 
 <br>
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be removed from the league and forfeit any dues paid**
@@ -57,25 +51,26 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ## __Section II - League Dues__ ##
 
 ### Entry Fee ###
-- The Entry Fee for the league is $50 per team.
-- Must be paid at minimum 2 weeks before the draft (startup or rookie).
+- The Entry Fee for the league is $50 per team. This covers the 2021 season which starts on 10/09/21. In addition all managers must pay the dues for the second season (2022) at the same time as paying the entry fee. This must be paid 48 hours before the start up draft commences. 
 
 ### Yearly Dues ###
 
-- After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
-- Dues must also be paid for any year a team trades draft picks in.
+- After the first two years there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
+- Dues must also be paid immediately for any year a team trades draft picks in. These fees will be due within 24 hours of the trade being completed. Failure to pay these dues will result in the trade being cancelled.
 
 ### Penalties ###
-If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioners discretion on whether or not to replace them.
+If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioners discretion on whether or not to replace them. 
 
 <br><br>
 
 ## __Section III - Payout__ ##
-- 1st Place: $450 (75%)
-- 2nd Place: $75 (12.5%)
-- 3rd Place: $50 (8.34%)
 
-Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
+
+- 1st Place: $450 (75%)
+- 2nd Place: $100 (16.66%)
+- 3rd Place: $50 (8.333%)
+
+
 
 <br><br>
 
