@@ -154,7 +154,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## Playoffs__ ##
+### Playoffs ###
 
 ### Championship Bracket ###
 - The two teams with the best regular season records will be assigned to the top two seeds, and will recieve a bye in the first week of playoffs.
