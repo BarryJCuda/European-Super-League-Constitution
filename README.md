@@ -167,32 +167,8 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section X - Scoring__ ##
+- Scoring is the default Sleeper scoring system, which can be seen in the League settings page of the app/website.
 
-<table>
-    <tr>
-    <td>Passing</td>
-    <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-    <td>.04<br>-2<br>6<br>2</td>
-    </tr>
-     <tr>
-        <td>Rushing</td>
-        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)</td>
-        <td>0.1<br>6<br>2</td>
-      </tr>
-      <tr>
-        <td>Receiving</td>
-        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)</td>
-        <td>0.1<br>6<br>2<br>1</td>
-      </tr>
-      <tr>
-        <td>Miscellaneous </td>
-        <td>Total Fumbles Lost</td>
-        <td>-2</td>
-      </tr>
-      <tr>
-        <td>Kicking</td>
-        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-39 Yard) (FG0)<br>Each Field Goal Made (40-49 Yard) (FG40)<br>Each Field Goal Made (50+)(FG50)<br>Field Goal Missed (FGM)</td>
-        <td>1<br>3<br>4<br>5<br>-1</td>
-      </tr>
-    </table>
+
+
 
