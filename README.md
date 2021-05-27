@@ -1,27 +1,34 @@
 # European Super League Dynasty League Constitution #
 ## Table of Contents
 
-- [League Governence](#section-i---league-governence)
+- [League Overview](#section-i---league-overview)
+- [League Governence](#section-ii---league-governence)
    - [Commissioner](#league-commissioner)
    - [Commissioner Powers, Duties and Arbitration Process](#commissioner-site-powers)
-- [League Dues](#section-ii---league-dues)
-- [Payout](#section-iii---payout)
-- [Rosters](#section-iv---rosters)
-- [Free Agency & Trading](#section-v---free-agency--trading)
+- [League Dues](#section-iii---league-dues)
+- [Payout](#section-iv---payout)
+- [Rosters](#section-v---rosters)
+- [Free Agency & Trading](#section-vi---free-agency--trading)
   - [Free Agency](#free-agency)
   - [Trading](#trades)
-- [Startup Draft](#section-vi---startup-draft)
-- [Rookie Draft](#section-vii---rookie-draft)
-- [Schedule & Playoffs](#section-viii---schedule--playoffs)
+- [Startup Draft](#section-vii---startup-draft)
+- [Rookie Draft](#section-viii---rookie-draft)
+- [Schedule & Playoffs](#section-ix---schedule--playoffs)
    - [Schedule](#regular-season-schedule)
    - [Playoffs](#playoffs)
    - [Championship](#championship-bracket)
    - [Consolation](#consolation-bracket)
-- [Scoring](#section-ix---scoring)
+- [Scoring](#section-x---scoring)
 <br>
 <br>
 
-## __Section I - League Governence__ ##
+## __Section I - League Overview__ ##
+
+### League Structure ###
+The European Superleague is a 12 team, single division, Dynasty League. Each team will represent a different European city/town. Teams will compete each season in a head to head, PPR scoring format in an attempt to finish with one of 6 playoff places, and will then do battle in a post season knockout playoff to be crowned Champions of Europe. 
+<br>
+
+## __Section II - League Governence__ ##
 
 ### League Commissioner ###
 BarryJCuda
@@ -43,11 +50,15 @@ The commissioner is the final authority on all league matters, excluding dispute
 In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called by the commissioner and receive a majority from league members (in a tie the commissioner has the tiebreaking vote). League members may submit potential rule/structure changes at any time to the commissioner for consideration. 
 <br>
 ### Collusion ###
-**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be removed from the league and forfeit any dues paid**
+**Collusion (two or more owners conspiring to provide an unfair advantage to one or more teams) will not be tolerated, in any form. Examples of collusion include but are not limited to: throwing games, renting players (when a player is traded to another team with the understanding the player will be returned to the original team at a later date), dumping players (in an attempt to give another team a waiver advantage by giving them inside knowledge of player availability) or making unfair trades. Owners found guilty of collusion will be immediately removed from the league without refund.**
+
+<br>
+### Tanking/Throwing Games ###
+**Intentional "tanking" or attempting to lose games for any reason is strictly prohibited. The rookie draft order is decided in such a way (see section viii - rookie draft) that tanking by setting sub optimal lineups is not beneficial, but to maintain the integrity and ensure the competitive fairness of the league, all teams must set their lineups properly, and in the "spirit of the game" every gameweek. This means that teams must have full starting rosters, and managers must not, in an attempt to influence results, select players who are either: a) obviously unlikely to play for any reason, or b) obviously unlikely to contribute significantly compared to players they leave on the bench. Sit/Start decisions are affected by many factors, and will always be a matter for individual managers, but the commissioner reserves the right to make changes to a teams lineup in scenarios where they are obviously in breach of this rule. **
 
 <br><br>
 
-## __Section II - League Dues__ ##
+## __Section III - League Dues__ ##
 
 ### Entry Fee ###
 - The Entry Fee for the league is $50 per team. This covers the 2021 season which starts on 10/09/21. In addition all managers must pay the dues for the second season (2022) at the same time as paying the entry fee. This must be paid 48 hours before the start up draft commences. 
@@ -62,7 +73,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## __Section III - Payout__ ##
+## __Section IV - Payout__ ##
 
 
 - 1st Place: $450 (75%)
@@ -73,7 +84,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## __Section IV - Rosters__ ##
+## __Section V - Rosters__ ##
 
 
    Position | Starters | Maximum
@@ -95,7 +106,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## __Section V - Free Agency & Trading__ ##
+## __Section VI - Free Agency & Trading__ ##
 
 ### Free Agency ###
 
@@ -114,7 +125,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## __Section VI - Startup Draft__ ##
+## __Section VII - Startup Draft__ ##
 - Will take place June 1st 2021 on Sleeper.
 - Snake format (1st to 12th then 12th to 1st).
 - Each day the draft will last from 7AM to 11PM BST with each team having 8 hours per pick. The draft will be paused outside of these hours. Managers should endeavour to make their picks as soon as possible.
@@ -123,7 +134,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## __Section VII - Rookie Draft__ ##
+## __Section VIII - Rookie Draft__ ##
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on the following:
@@ -143,7 +154,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## __Section VIII - Schedule & Playoffs__ ##
+## __Section IX - Schedule & Playoffs__ ##
 
 
 ### Regular Season Schedule ###
@@ -165,7 +176,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 <br><br>
 
-## __Section IX - Scoring__ ##
+## __Section X - Scoring__ ##
 - Scoring is the default Sleeper scoring system, which can be seen in the League settings page of the app/website.
 
 
