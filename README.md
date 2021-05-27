@@ -42,7 +42,7 @@ BarryJCuda
 
 
 ### Commissioner Site Powers and Duty ###
-The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams if necessary. The commissioner has a duty to uphold the integrity, competitive spirit, and enjoyment of the league, and will only ever use his abilites/powers to fulfill this duty. 
+The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams if necessary. The commissioner has a duty to uphold the integrity, competitive spirit, and enjoyment of the league, and will only ever use his abilites/powers to fulfill this duty. If any team/owner threatens any of these fundamental aspects of the league, they can be removed or replaced.
 <br>
 ### Dispute Arbitration ###
 The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant, the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
@@ -54,14 +54,14 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 **Collusion (two or more owners conspiring to provide an unfair advantage to one or more teams) will not be tolerated, in any form. Examples of collusion include but are not limited to: throwing games, renting players (when a player is traded to another team with the understanding the player will be returned to the original team at a later date), dumping players (in an attempt to give another team a waiver advantage by giving them inside knowledge of player availability) or making unfair trades. Owners found guilty of collusion will be immediately removed from the league without refund.**
 <br>
 ### Tanking/Throwing Games ###
-**Intentional "tanking" or attempting to lose games for any reason is strictly prohibited. The rookie draft order is decided in such a way (see section viii - rookie draft) that tanking by setting sub optimal lineups is not beneficial, but to maintain the integrity and ensure the competitive fairness of the league, all teams must set their lineups properly, and in the "spirit of the game" every gameweek. This means that teams must have full starting rosters, and managers must not, in an attempt to influence results, select players who are either: a) obviously unlikely to play for any reason, or b) obviously unlikely to contribute significantly compared to players they leave on the bench. Sit/Start decisions are affected by many factors, and will always be a matter for individual managers, but the commissioner reserves the right to make changes to a teams lineup in scenarios where they are obviously in breach of this rule.**
+**Intentional "tanking" or attempting to lose games for any reason is strictly prohibited. The rookie draft order is decided in such a way (see section viii - rookie draft) that tanking by setting sub optimal lineups is not beneficial, but to maintain the integrity and ensure the competitive fairness of the league, all teams must set their lineups properly, and in the "spirit of the game" every gameweek. This means that teams must have full starting rosters, and managers must not, in an attempt to influence results, select players who are either: a) obviously unlikely to play for any reason, or b) obviously unlikely to contribute significantly compared to players they leave on the bench. Sit/Start decisions are affected by many factors, and except for in extreme and obvious examples, will always be a matter for individual managers, but the commissioner reserves the right to make changes to a teams lineup in scenarios where they are obviously in breach of this rule.**
 
 <br><br>
 
 ## __Section III - League Dues__ ##
 
 ### Entry Fee ###
-- The Entry Fee for the league is $50 per team. This covers the 2021 season which starts on 10/09/21. In addition all managers must pay the dues for the second season (2022) at the same time as paying the entry fee. This must be paid 48 hours before the start up draft commences. 
+- The Entry Fee for the league is $50 per team. This covers the 2021 season which starts on 10/09/21. In addition all managers must pay the dues for the second season (2022) at the same time as paying the entry fee. These fees must be paid 48 hours before the start up draft commences. 
 
 ### Yearly Dues ###
 
@@ -75,10 +75,14 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ## __Section IV - Payout__ ##
 
+12 x $50 entry fee = $600 prize pool
+Top 3 finishers after the playoffs recieve prizes.
 
-- 1st Place: $450 (75%)
-- 2nd Place: $100 (16.66%)
-- 3rd Place: $50 (8.333%)
+- 1st Place: $350 (58.33%)
+- 2nd Place: $100(16.66%)
+- 3rd Place: $80 (13.333%)
+- 
+- Highest scoring team each week of regular season: $5 (total: $70)
 
 
 
@@ -118,8 +122,8 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ### Trades ###
 - Trades will be subject to a 24 hour review period. All trades will be accepted unless obvious collusion takes place. If anyone has any concerns regarding collusion in trades these should be raised with the commissioner. If the commissioner has serious suspicions about a trade, it will be put to a league vote. 
-- Trade deadline is in week 13.
-- During the offseason trading is still allowed. Trading can commence after the completion of the Championship game.
+- Trade deadline is in week 13 (check Sleeper for details).
+- During the offseason trading is still allowed. Trading can re-commence after the completion of the Championship game.
 - Draft picks up to 2 seasons in the future are tradable. 
 - Teams must pay dues for any year they trade draft picks in.
 
