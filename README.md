@@ -4,7 +4,7 @@
 - [League Overview](#section-i---league-overview)
 - [League Governence](#section-ii---league-governence)
    - [Commissioner](#league-commissioner)
-   - [Commissioner Powers, Duties and Arbitration Process](#commissioner-site-powers)
+   - [Commissioner Powers, Duties and Arbitration Process](#commissioner-site-powers-and-duty)
    - [Collusion/Tanking](#collusion)
 - [League Dues](#section-iii---league-dues)
 - [Payout](#section-iv---payout)
