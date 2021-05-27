@@ -82,7 +82,7 @@ Top 3 finishers after the playoffs recieve prizes.
 - 1st Place: $350 (58.33%)
 - 2nd Place: $100(16.66%)
 - 3rd Place: $80 (13.333%)
-- 
+
 - Highest scoring team each week of regular season: $5 (total: $70)
 
 
