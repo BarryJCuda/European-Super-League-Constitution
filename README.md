@@ -1,4 +1,4 @@
-# European Super League Dynasty League Constitution #
+# European Super League Constitution #
 ## Table of Contents
 
 - [League Overview](#section-i---league-overview)
