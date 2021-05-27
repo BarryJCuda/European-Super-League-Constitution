@@ -76,6 +76,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 ## __Section IV - Payout__ ##
 
 12 x $50 entry fee = $600 prize pool
+
 Top 3 finishers after the playoffs recieve prizes.
 
 - 1st Place: $350 (58.33%)
