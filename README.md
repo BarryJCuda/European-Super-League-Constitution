@@ -115,15 +115,19 @@ Top 3 finishers after the playoffs recieve prizes.
 
 ### Free Agency ###
 
-- Each team will receive $300 for a Free Agency Aquisition Budget
-- Minimum bid to get a FA off waivers is $1
-- FAAB dollars are not tradeable
-- There is a two Day waiting period for waivers to clear
+- Free agency/waivers will be based on the FAAB system. 
+- Each team will receive $300 for a Free Agency Aquisition Budget at the start of week 1 of the NFL season.
+- Minimum bid to get a FA off waivers is $0
+- FAAB dollars are not tradeable, nor will they roll over to next season.
+- There is a two Day waiting period for dropped players to clear waivers.
+- Waivers will lock when games begin and process on Wednesdays.
+- Free agency/waivers will close following the completion of the playoffs and will not reopen until the conclusion of our rookie draft. 
+- When free agency/waivers recommence following the rookie draft, each team will receive an off season budget of $300 that will be topped back up to $300 at the start of week 1 of the NFL season.
 
 
 ### Trades ###
-- Trades will be subject to a 24 hour review period. All trades will be accepted unless obvious collusion takes place. If anyone has any concerns regarding collusion in trades these should be raised with the commissioner. If the commissioner has serious suspicions about a trade, it will be put to a league vote. 
-- Trade deadline is in week 13 (check Sleeper for details).
+- All trades will be processed on acceptance by all parties without a review period. All trades will be allowed unless obvious collusion takes place. If anyone has any concerns regarding collusion in trades, these should be raised with the commissioner. If the commissioner has serious suspicions about a trade, the validity of such a trade can be put to a league vote. Trades can be reversed by the commissioner if required as a result.
+- Trade deadline is at the end of week 13 (check Sleeper for details).
 - During the offseason trading is still allowed. Trading can re-commence after the completion of the Championship game.
 - Draft picks up to 2 seasons in the future are tradable. 
 - Teams must pay dues for any year they trade draft picks in.
@@ -131,7 +135,7 @@ Top 3 finishers after the playoffs recieve prizes.
 <br><br>
 
 ## __Section VII - Startup Draft__ ##
-- Will take place June 1st 2021 on Sleeper.
+- Will take place June 10th 2021 on Sleeper.
 - Snake format (1st to 12th then 12th to 1st).
 - Each day the draft will last from 7AM to 11PM BST with each team having 8 hours per pick. The draft will be paused outside of these hours. Managers should endeavour to make their picks as soon as possible.
 - Trading draft picks is allowed during the startup draft.
