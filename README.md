@@ -147,8 +147,8 @@ Top 3 finishers after the playoffs recieve prizes.
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on the following:
-- Picks 1-6 will be assigned in inverse order of the regular season final standings.
-- Picks 7-12 will be assigned based on maximum potential points scored according to Sleeper.
+- Picks 1-6 will be assigned in inverse order of the regular season final standings based on maximum potential points according to sleeper. So from the bottom six teams, the team with the worst potential points scored in the regular season will receive pick 1.01, the team with the second worse potential points the 1.02 and so on.
+- Picks 7-12 will be assigned based on playoff finishing position of the top 6 teams. For example, Champion -1.12, Runner up -1.11, next four picks based on reg season record.
 
 ### Rookie Draft Settings ###
 - There will be 4 rounds of the rookie draft.
