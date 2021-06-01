@@ -62,7 +62,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 <br>
 ### Team Owner Responsibilities ###
 In a dynasty league, it is essential that all owners are active in some fashion all year round. Owners should respond to all trade offers in a timely manner, even if it is just to politely decline. Lineups should always be set, and owners should endeavour to respond to league communications as soon as possible. 
-Fantasy football is a game built around manager interaction, and banter/rivalries/trash talking is actively encouraged. It should however go without saying that hateful abuse of any kind will not be tolerated, bigots of any kind are not welcome in the ESL and will be removed. 
+Fantasy football is a game built around manager interaction, and banter/rivalry/trash talking is actively encouraged. It should however go without saying that hateful abuse of any kind will not be tolerated, bigots of any kind are not welcome in the ESL and will be removed. 
 <br>
 ### Team Owner Leaving ###
 If a team’s owner no longer wishes to continue to participate in the ESL, please contact the League Commissioner as soon as possible in order that they may arrange a replacement owner. If possible, this should be done at the conclusion of a season, before any off season activities commence, and well in advance of the rookie draft. Any owner leaving for any reason during a season will forfeit that seasons league fees, and any future league fees paid.
