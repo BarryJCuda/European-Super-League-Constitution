@@ -3,7 +3,7 @@
 
 - [League Overview](#section-i---league-overview)
 - [League Governence](#section-ii---league-governence)
-   - [Commissioner](#league-commissioner)
+   - [Commissioner](#league-commissioners)
    - [Commissioner Powers, Duties and Arbitration Process](#commissioner-site-powers-and-duty)
    - [Collusion/Tanking](#collusion)
    - [Team Owner Responsibilities](#team-owner-responsibilities)
