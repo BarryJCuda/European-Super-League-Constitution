@@ -6,6 +6,9 @@
    - [Commissioner](#league-commissioner)
    - [Commissioner Powers, Duties and Arbitration Process](#commissioner-site-powers-and-duty)
    - [Collusion/Tanking](#collusion)
+   - [Team owner responsibilities](#team-owner-responsibilities)
+   - [Team leaving](#team-leaving)
+
 - [League Dues](#section-iii---league-dues)
 - [Payout](#section-iv---payout)
 - [Rosters](#section-v---rosters)
@@ -55,6 +58,14 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 <br>
 ### Tanking/Throwing Games ###
 **Intentional "tanking" or attempting to lose games for any reason is strictly prohibited. The rookie draft order is decided in such a way (see section viii - rookie draft) that tanking by setting sub optimal lineups is not beneficial, but to maintain the integrity and ensure the competitive fairness of the league, all teams must set their lineups properly, and in the "spirit of the game" every gameweek. This means that teams must have full starting rosters, and managers must not, in an attempt to influence results, select players who are either: a) obviously unlikely to play for any reason, or b) obviously unlikely to contribute significantly compared to players they leave on the bench. Sit/Start decisions are affected by many factors, and except for in extreme and obvious examples, will always be a matter for individual managers, but the commissioner reserves the right to make changes to a teams lineup in scenarios where they are obviously in breach of this rule.**
+<br>
+### Team Owner Responsibilities ###
+In a dynasty league, it is essential that all owners are active in some fashion all year round. Owners should respond to all trade offers in a timely manner, even if it is just to politely decline. Lineups should always be set, and owners should endeavour to respond to league communications as soon as possible. 
+<br>
+### Team Leaving ###
+If a team’s owner no longer wishes to continue to participate in the ESL, please contact the League Commissioner as soon as possible in order that they may arrange a replacement owner. If possible, this should be done at the conclusion of a season, before any off season activities commence, and well in advance of the rookie draft. Any owner leaving for any reason during a season will forfeit that seasons league fees, and any future league fees paid.
+In the event of an owner leaving the league mid-season for any reason, the Commissioner will run the former owners team by inserting the players at each position with the highest projected total until the ownership is filled. No trades/waiver pick ups will be made. 
+<br> 
 
 <br><br>
 
