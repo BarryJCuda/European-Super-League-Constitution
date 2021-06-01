@@ -77,7 +77,7 @@ If an owner is not adhering to proper ownership guidelines (setting rosters, not
 
 ### Entry Fee ###
 - The Entry Fee for the league is $50 per team. This covers the 2021 season which starts on 10/09/21. In addition all managers must pay the dues for the second season (2022) at the same time as paying the entry fee. These fees must be paid 48 hours before the start up draft commences. 
-
+- All entry fees will be handled by the Teamstake website. All credit/debit card transactions will be subject to a 4% fee, so bear this in mind when depositing to the Teamstake wallet. 
 ### Yearly Dues ###
 
 - After the first two years there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
@@ -100,6 +100,7 @@ Top 3 finishers after the playoffs receive prizes.
 
 - Highest scoring team each week of regular season: $5 (total: $70)
 
+- Payouts will be handled by the Teamstake website. All members will need to vote to confirm payouts at the end of the season. Also please not all credit/debit card payments will be subject to Teamstake's 4% transaction fee.
 
 
 <br><br>
