@@ -7,7 +7,7 @@
    - [Commissioner Powers, Duties and Arbitration Process](#commissioner-site-powers-and-duty)
    - [Collusion/Tanking](#collusion)
    - [Team owner responsibilities](#team-owner-responsibilities)
-   - [Team leaving](#team-leaving)
+   - [Team Owner leaving](#team-owner-leaving)
 
 - [League Dues](#section-iii---league-dues)
 - [Payout](#section-iv---payout)
@@ -62,7 +62,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ### Team Owner Responsibilities ###
 In a dynasty league, it is essential that all owners are active in some fashion all year round. Owners should respond to all trade offers in a timely manner, even if it is just to politely decline. Lineups should always be set, and owners should endeavour to respond to league communications as soon as possible. 
 <br>
-### Team Leaving ###
+### Team Owner Leaving ###
 If a team’s owner no longer wishes to continue to participate in the ESL, please contact the League Commissioner as soon as possible in order that they may arrange a replacement owner. If possible, this should be done at the conclusion of a season, before any off season activities commence, and well in advance of the rookie draft. Any owner leaving for any reason during a season will forfeit that seasons league fees, and any future league fees paid.
 In the event of an owner leaving the league mid-season for any reason, the Commissioner will run the former owners team by inserting the players at each position with the highest projected total until the ownership is filled. No trades/waiver pick ups will be made. 
 <br> 
