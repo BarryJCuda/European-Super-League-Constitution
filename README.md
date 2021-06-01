@@ -6,8 +6,9 @@
    - [Commissioner](#league-commissioner)
    - [Commissioner Powers, Duties and Arbitration Process](#commissioner-site-powers-and-duty)
    - [Collusion/Tanking](#collusion)
-   - [Team owner responsibilities](#team-owner-responsibilities)
+   - [Team Owner Responsibilities](#team-owner-responsibilities)
    - [Team Owner leaving](#team-owner-leaving)
+   - [Owner Removal](#owner-removal)
 
 - [League Dues](#section-iii---league-dues)
 - [Payout](#section-iv---payout)
@@ -66,6 +67,9 @@ In a dynasty league, it is essential that all owners are active in some fashion 
 If a team’s owner no longer wishes to continue to participate in the ESL, please contact the League Commissioner as soon as possible in order that they may arrange a replacement owner. If possible, this should be done at the conclusion of a season, before any off season activities commence, and well in advance of the rookie draft. Any owner leaving for any reason during a season will forfeit that seasons league fees, and any future league fees paid.
 In the event of an owner leaving the league mid-season for any reason, the Commissioner will run the former owners team by inserting the players at each position with the highest projected total until the ownership is filled. No trades/waiver pick ups will be made. 
 <br> 
+### Owner Removal ###
+If an owner is not adhering to proper ownership guidelines (setting rosters, not responding to league communications, aggressive or intimidating behaviour etc.) then they are subject to possible removal. The removal process will take place by a two-thirds vote (8) of current league owners. This process is only to be administered to owners who are not fulfilling responsibilities, or acting in a manner which could threaten the enjoyment of the league, not because someone is disliked.
+<br>
 
 <br><br>
 
