@@ -196,9 +196,10 @@ Top 3 finishers after the playoffs receive prizes.
 - The next three teams will be assigned their playoff seeding spot based on regular season record.
 - The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
 
-### Consolation Bracket ###
+### Consolation Bracket (Toilet Bowl) ###
 - Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
-- The consolation bracket has no bearing on draft order.
+- These teams will compete to try not to finish last in the league and be crowned Toilet Bowl Champions. Teams finishing in 11th and 12th place receive a bye in the first week of Toilet Bowl playoffs. Winning teams in each round will escape the Toiley Bowl, while losing teams will be flushed to the next round. 
+- The consolation bracket has no bearing on draft order, theres only pride at stake here.
 
 <br><br>
 
