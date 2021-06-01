@@ -98,7 +98,7 @@ Top 3 finishers after the playoffs receive prizes.
 - 2nd Place: $100(16.66%)
 - 3rd Place: $80 (13.333%)
 
-- Highest scoring team each week of regular season: $5 (total: $70)
+- Highest scoring team each week of regular season: $5 (total: $70) This will be paid at the end of the playoffs with other league prizes.
 
 - Payouts will be handled by the Teamstake website. All members will need to vote to confirm payouts at the end of the season. Also please note all credit/debit card withdrawals will be subject to Teamstake's 4% transaction fee.
 
