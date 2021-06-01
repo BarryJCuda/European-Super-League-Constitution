@@ -35,11 +35,15 @@ The European Superleague is a 12 team, single division, Dynasty League. Each tea
 
 ## __Section II - League Governence__ ##
 
-### League Commissioner ###
+### League Commissioners ###
 BarryJCuda
 
 
 >barryjcuda@gmail.com
+
+Tridiseth
+
+> tridiseth101@aol.com
 
 <br>
 
