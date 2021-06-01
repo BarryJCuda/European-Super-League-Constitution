@@ -151,6 +151,7 @@ Top 3 finishers after the playoffs receive prizes.
 
 ## __Section VII - Startup Draft__ ##
 - Will take place June 10th 2021 on Sleeper.
+- Startup draft will be a combined rookie/vets draft.
 - Snake format (1st to 12th then 12th to 1st).
 - Each day the draft will last from 7AM to 11PM BST with each team having 8 hours per pick. The draft will be paused outside of these hours. Managers should endeavour to make their picks as soon as possible.
 - Trading draft picks is allowed during the startup draft.
