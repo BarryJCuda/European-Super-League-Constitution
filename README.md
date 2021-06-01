@@ -92,7 +92,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 12 x $50 entry fee = $600 prize pool
 
-Top 3 finishers after the playoffs recieve prizes.
+Top 3 finishers after the playoffs receive prizes.
 
 - 1st Place: $350 (58.33%)
 - 2nd Place: $100(16.66%)
@@ -163,7 +163,7 @@ Top 3 finishers after the playoffs recieve prizes.
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on the following:
 - Picks 1-6 will be based on the maximum potential points scored by the bottom six teams according to sleeper in reverse order. So from the bottom six teams, the team with the lowest potential points scored in the regular season will receive pick 1.01, the team with the second lowest potential points the 1.02 and so on. This system tries to ensure the teams who need the most help from the rookie draft get it, without encouraging tanking
-- Picks 7-12 will be assigned based on playoff finishing position of the top 6 teams. For example, Champion -1.12, Runner up -1.11, next four picks based on reg season record.
+- Picks 7-12 will be assigned based on playoff finishing position of the top 6 teams. For example, Champion -1.12, Runner up -1.11, next four picks based on playoff seeding.
 
 ### Rookie Draft Settings ###
 - There will be 4 rounds of the rookie draft.
