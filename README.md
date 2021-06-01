@@ -68,7 +68,7 @@ If a team’s owner no longer wishes to continue to participate in the ESL, plea
 In the event of an owner leaving the league mid-season for any reason, the Commissioner will run the former owners team by inserting the players at each position with the highest projected total until the ownership is filled. No trades/waiver pick ups will be made. 
 <br> 
 ### Owner Removal ###
-If an owner is not adhering to proper ownership guidelines (setting rosters, not responding to league communications, aggressive or intimidating behaviour etc.) then they are subject to possible removal. The removal process will take place by a two-thirds vote (8) of current league owners. This process is only to be administered to owners who are not fulfilling responsibilities, or acting in a manner which could threaten the enjoyment of the league, not because someone is disliked.
+If an owner is not adhering to proper ownership guidelines (setting rosters, not responding to league communications, behaving in an aggressive or intimidating manner etc.) then they are subject to possible removal by the commissioner. Any owner removed for such an offense will forfeit any league fees paid.
 <br>
 
 <br><br>
