@@ -41,9 +41,9 @@ BarryJCuda
 
 >barryjcuda@gmail.com
 
-John
+Tridiseth
 
-> johnsanders101@aol.com
+> tridiseth@hotmail.com
 
 <br>
 
