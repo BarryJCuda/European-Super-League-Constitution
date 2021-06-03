@@ -128,6 +128,7 @@ Top 3 finishers after the playoffs receive prizes.
 
 - Immediately following the Championship game, rosters will expand to give teams 30 bench spots to accomodate incoming rookies/free agents for the following season.
 - Following the 3rd preseason NFL game, bench spots will be returned to the standard size of 20, so managers must make the required cuts to allow for this. The exact date/time of the cut deadline will be posted in league chat.
+- Players will only be eligible for IR spots if they are designated as IR, Covid or Suspended.
    
 
 <br><br>
