@@ -157,7 +157,7 @@ Top 3 finishers after the playoffs receive prizes.
 <br><br>
 
 ## __Section VII - Startup Draft__ ##
-- Will commence June 10th 2021 on Sleeper.
+- Will commence June 10th 2021 on Sleeper, or earlier if all fees are paid.
 - Draft order will be randomized using 100yardrush.com and live streamed on youtube.
 - Startup draft will be a combined rookie/vets draft.
 - Snake format (1st to 12th then 12th to 1st).
