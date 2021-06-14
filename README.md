@@ -144,7 +144,7 @@ Top 3 finishers after the playoffs receive prizes.
 - There is a two Day waiting period for dropped players to clear waivers.
 - Waivers will lock when games begin and process on Wednesdays.
 - Free agency/waivers will close following the completion of the playoffs and will not reopen until the conclusion of our rookie draft. 
-- When free agency/waivers recommence following the rookie draft, each team will receive an off season budget of $300 that will be topped back up to $300 at the start of week 1 of the NFL season.
+- When free agency/waivers recommence following the rookie draft, each team will receive an off season budget of $300 that will be topped back up to $300 at the start of week 1 of the NFL season. Off season waivers will process on Wednesdays and Sundays.
 
 
 ### Trades ###
