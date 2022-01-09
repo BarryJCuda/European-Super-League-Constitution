@@ -170,9 +170,9 @@ Top 3 finishers after the playoffs receive prizes.
 
 ### Rookie Draft Order ###
 - The draft order for subsequent rookie drafts will be determined based on the following:
-- Picks 1-6 will be based on the maximum potential points scored by the bottom six teams (not including the highest scorer of the bottom 7 teams; see Playoffs/Championship Bracket below) according to sleeper in reverse order. So from the 6 teams not advancing to the playoffs, the team with the lowest potential points scored in the regular season will receive pick 1.01, the team with the second lowest potential points the 1.02 and so on. This system tries to ensure the teams who need the most help from the rookie draft get it, without encouraging tanking. 
+- Picks 1-6 will be based on the maximum potential points scored by the 6 teams not advancing to the playoffs. (see Playoffs/Championship Bracket below) according to sleeper in reverse order. So from the 6 teams not advancing to the playoffs, the team with the lowest potential points scored in the regular season will receive pick 1.01, the team with the second lowest potential points the 1.02 and so on. This system tries to ensure the teams who need the most help from the rookie draft get it, without encouraging tanking. 
 (To view maximum potential points, in Sleeper go to: Standings>View details and see MAX PF.)
-- Picks 7-12 will be assigned based on playoff finishing position/seeding of the top 6 teams. For example, Champion -1.12, Runner up -1.11, Third -1.10, Fourth -1.09. Picks 1.08/1.07 will be based on the playoff seeding of the two remaining teams, the highest seeded team will have pick 1.08, the lowest 1.07.
+- Picks 7-12 will be assigned based on playoff finishing position/seeding of the 6 teams who advance to the playoffs. For example, Champion -1.12, Runner up -1.11, Third -1.10, Fourth -1.09. Picks 1.08/1.07 will be based on the playoff seeding of the two remaining teams, the highest seeded team will have pick 1.08, the lowest 1.07.
 
 ### Rookie Draft Settings ###
 - There will be 4 rounds of the rookie draft.
@@ -201,7 +201,7 @@ Top 3 finishers after the playoffs receive prizes.
 ### Championship Bracket ###
 - The two teams with the best regular season records (1/2 in the standings) will be assigned to the top two seeds, and will recieve a bye in the first week of playoffs.
 - The next three teams (3/4/5) will be assigned their playoff seeding spot based on regular season record.
-- The final playoff spot will be awarded to the team with the highest points scored out of the remaining 7 teams regardless of league standing.
+- The final playoff spot will be awarded to the team with the highest points scored out of the remaining 7 teams regardless of league standing, this team will be the final seed in the playoffs.
 
 ### Consolation Bracket (Toilet Bowl) ###
 - Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
