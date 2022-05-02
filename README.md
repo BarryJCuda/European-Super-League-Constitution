@@ -178,7 +178,7 @@ Top 3 finishers after the playoffs receive prizes.
 - There will be 4 rounds of the rookie draft.
 - The rookie draft will take place shortly after completion of the NFL draft.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
-- Each day the draft will last from 7AM to 11PM BST with each team having 8 hours per pick.
+- Each day the draft will last from 8AM to 11PM BST with each team having 8 hours per pick.
 - Trading draft picks is allowed during the rookie draft
 - If a team misses their pick the best available player based on Sleeper ADP will be autodrafted.
 - Any undrafted rookie will be treated as a Free Agent according to Sleepers database.
