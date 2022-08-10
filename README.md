@@ -202,6 +202,7 @@ Top 3 finishers after the playoffs receive prizes.
 - The two teams with the best regular season records (1/2 in the standings) will be assigned to the top two seeds, and will recieve a bye in the first week of playoffs.
 - The next three teams (3/4/5) will be assigned their playoff seeding spot based on regular season record.
 - The final playoff spot will be awarded to the team with the highest points scored out of the remaining 7 teams regardless of league standing, this team will be the final seed in the playoffs.
+- The 3rd seed will always play the seed with the lowest points scored in the first round of the playoffs.
 
 ### Consolation Bracket (Toilet Bowl) ###
 - Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
