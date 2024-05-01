@@ -50,7 +50,7 @@ Tridiseth
 
 
 ### Commissioner Site Powers and Duty ###
-The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams if necessary. The commissioner has a duty to uphold the integrity, competitive spirit, and enjoyment of the league, and will only ever use his abilites/powers to fulfill this duty. If any team/owner threatens any of these fundamental aspects of the league, they can be removed or replaced.
+The commissioner has the ability to (in appropriate situations) change a rule, edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams if necessary. The commissioner has a duty to uphold the integrity, competitive spirit, and enjoyment of the league, and will only ever use his abilites/powers to fulfill this duty. If any team/owner threatens any of these fundamental aspects of the league, they can be removed or replaced.
 <br>
 ### Dispute Arbitration ###
 The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant, the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
@@ -147,11 +147,11 @@ Top 3 finishers after the playoffs receive prizes.
 
 
 ### Trades ###
-- All trades will be processed on acceptance by all parties without a review period. All trades will be allowed unless obvious collusion takes place. If anyone has any concerns regarding collusion in trades, these should be raised with the commissioner. If the commissioner has serious suspicions about a trade, the validity of such a trade can be put to a league vote. Trades can be reversed by the commissioner if required as a result.
+- All trades will be subject to a maximum 24 hour review period, this is purely to ensure any future draft picks traded are paid for. Trades not involving future picks will be processed straight away, and as soon as future picks are paid for the trade will be processed. All trades will be allowed unless obvious collusion takes place. If anyone has any concerns regarding collusion in trades, these should be raised with the commissioner. If the commissioner has serious suspicions about a trade, the validity of such a trade can be put to a league vote. Trades can be reversed by the commissioner if required as a result.
 - Trade deadline is at the end of week 13 (check Sleeper for details).
 - During the offseason trading is still allowed. Trading can re-commence after the completion of the Championship game.
 - Draft picks up to 2 seasons in the future are tradable. 
-- Teams must pay dues for any year they trade draft picks in.
+- Teams must pay dues for any year they trade draft picks in immediately.
 
 <br><br>
 
@@ -178,7 +178,7 @@ Top 3 finishers after the playoffs receive prizes.
 - There will be 4 rounds of the rookie draft.
 - The rookie draft will take place shortly after completion of the NFL draft.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
-- Each day the draft will last from 8AM to 11PM BST with each team having 8 hours per pick.
+- Each day the draft will last from 9AM to 10PM BST with each team having 8 hours per pick.
 - Trading draft picks is allowed during the rookie draft
 - If a team misses their pick the best available player based on Sleeper ADP will be autodrafted.
 - Any undrafted rookie will be treated as a Free Agent according to Sleepers database.
